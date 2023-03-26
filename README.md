@@ -1,16 +1,29 @@
-### Hi there 👋
+### Olá! Eu sou o Luan Tavares. 👋
 
-<!--
-**LuaanTavares/LuaanTavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luantavares0206/)
 
-Here are some ideas to get you started:
+![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=LuaanTavares&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuaanTavares&langs_count=10&layout=compact)](https://github.com/LuaanTavares/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que eu uso no dia a dia:
+
+<div style="display: inline_block"><br/>
+  <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  
+  <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  
+  <img alt="taiwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    
+   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+   
+   <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+   
+   <img alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+      
+   <img alt="mongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+               
+   <img alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+   
+   <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+</div><br/>
+
