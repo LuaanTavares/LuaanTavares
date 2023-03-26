@@ -1,19 +1,19 @@
 
 <div align="center">
 
-<h1>Bem vindo(a)! Eu sou o Luan Tavares. 👋</h1>
+<h1>Bem vindo(a)! Eu sou o Luan Tavares. 👋</h1><br/>
 
 🔭 <b>Estudo Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá (EAD).<br/>
 ⚡ Além da tecnologia, tenho uma paixão pela eletricidade e estou cursando Técnico em Eletrotécnica.<br/>
 📍 Moro em São Gonçalo, Rio de Janeiro - Brasil.<br/>
 😄 Pronomes: Ele/Dele.<br/>
-🚀 Meu objetivo é tornar-me um desenvolvedor Web Full stack.</b><br/>
+🚀 Meu objetivo é tornar-me um desenvolvedor Web Full Stack.</b><br/><br/>
 
 <h3>Contatos<h3>
-
+  
   [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luantavares0206/)
-  [![Whatsapp](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://www.linkedin.com/in/luantavares0206/)
-  [![Gmail](		https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/luantavares0206/)<br/><br/>
+  [![Whatsapp](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+55219972019760)
+  [![Gmail](		https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luankriok18@gmail.com)<br/><br/>
 
 
 <h3>Estatísticas<h3>
