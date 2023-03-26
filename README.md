@@ -1,29 +1,54 @@
-### Olá! Eu sou o Luan Tavares. 👋
 
-[![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luantavares0206/)
+<div align="center">
 
-![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=LuaanTavares&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuaanTavares&langs_count=10&layout=compact)](https://github.com/LuaanTavares/github-readme-stats)
+<h1>Bem vindo(a)! Eu sou o Luan Tavares. 👋</h1>
 
-## Tecnologias que eu uso no dia a dia:
+<div align="start">
+🔭 <b>Estudo Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá (EAD).<br/>
+⚡ Além da tecnologia, tenho uma paixão pela eletricidade e estou cursando Técnico em Eletrotécnica.<br/>
+📍 Moro em São Gonçalo, Rio de Janeiro - Brasil.<br/>
+😄 Pronomes: Ele/Dele.<br/>
+🚀 Meu objetivo é tornar-me um desenvolvedor Web Full stack.</b>
+</div><br/><br/>
 
-<div style="display: inline_block"><br/>
-  <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<h3>Contatos<h3><br/>
+
+  [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luantavares0206/)
+  [![Whatsapp](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://www.linkedin.com/in/luantavares0206/)
+  [![Gmail](		https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/luantavares0206/)<br/><br/>
+
+
+
+
+<a href="https://github.com/LuaanTavares/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuaanTavares&show_icons=true&theme=tokyonight&include_all_commits-true&count-private-true"/>
+
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuaanTavares&layout=compact&langs_count=10&theme=tokyonight"/>     
+</a><br/><br/>
+
+
+<h3> Tecnologias que eu uso no dia a dia: </h3><br/>
+
+<div style="display: flex"><br/>
+  <img height="50" width="60" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   
-  <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img height="50" width="60" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   
-  <img alt="taiwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img height="50" width="60" alt="taiwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
     
-   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+   <img height="50" width="60" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
    
-   <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+   <img height="50" width="60" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
    
-   <img alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+   <img height="50" width="60" alt="node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
       
-   <img alt="mongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+   <img height="50" width="60"  alt="mongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
                
-   <img alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+   <img height="50" width="60"  alt="c#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
    
-   <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+   <img height="50" width="60"  alt=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+   
+   <img height="50" width="60" alt="git"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div><br/>
 
+</div>
