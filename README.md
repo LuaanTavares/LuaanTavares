@@ -7,7 +7,7 @@
 ⚡ Além da tecnologia, tenho uma paixão pela eletricidade e estou cursando Técnico em Eletrotécnica.<br/>
 📍 Moro em São Gonçalo, Rio de Janeiro - Brasil.<br/>
 😄 Pronomes: Ele/Dele.<br/>
-🚀 Meu objetivo é tornar-me um desenvolvedor Web Full Stack.</b><br/><br/>
+🚀 Meu objetivo é tornar-me um desenvolvedor Full Stack.</b><br/><br/>
 
 <h3>Contatos<h3>
   
